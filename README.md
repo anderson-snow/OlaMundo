@@ -1,2 +1,2 @@
 # OlaMundo
- Primeiro projeto criado em aula Professor Guanabara
+ Primeiro projeto criado em aula com o Professor Guanabara
